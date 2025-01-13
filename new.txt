@@ -13,3 +13,5 @@ categories: 种类
 ---
 Be happy.
 ---
+Happy New Year in 2025
+---
