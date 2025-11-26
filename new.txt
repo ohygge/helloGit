@@ -20,3 +20,6 @@ ur idea access token
 ---
 you got this
 ---
+clone this one with vscode
+20251126
+---
